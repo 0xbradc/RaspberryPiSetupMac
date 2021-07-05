@@ -54,7 +54,10 @@ Easy setup instructions for Mac OSX. This was created due to the sparse document
 
 # Resources
 [Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)
+
 [SSH](https://www.ssh.com/academy/ssh/putty/mac)
-[Raspberry Pi Imager](https://www.raspberrypi.org/downloads/).
-[VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/macos/).
+
+[Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
+
+[VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/macos/)
 
