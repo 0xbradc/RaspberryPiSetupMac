@@ -52,6 +52,14 @@ Easy setup instructions for Mac OSX. This was created due to the sparse document
 
 
 
+# Other Useful Pieces of Information
+1. In order to send an entire folder through SSH, perform the following command.
+  ```
+  scp -r /path/to/local/dir pi@raspberrypi.local:/path/to/remote/dir
+  ```
+
+
+
 # Resources
 [Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)
 
