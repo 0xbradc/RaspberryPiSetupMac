@@ -1,12 +1,12 @@
-# RaspberrypiSetupMac
-Easy setup instructions for Mac OSX. This was created due to the sparse documentation currently available.
+# RaspberryPiSetupMac
+Easy setup instructions for Mac OSX. This was created due to the surprisingly sparse or convoluted documentation currently available for the setup of Raspberry Pi machines on Mac. 
 
 
 
 # Getting Started
 1. Purchase a Micro-SD card over 8GB.
-2. Download the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/).
-3. Download the [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/macos/).
+2. Download the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/) to your Mac.
+3. Download the [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/macos/) to your Mac.
 
 
 
@@ -53,9 +53,9 @@ Easy setup instructions for Mac OSX. This was created due to the sparse document
 
 
 # Other Useful Pieces of Information
-1. In order to send an entire folder through SSH, perform the following command.
+1. In order to send an entire directory/folder through SSH, perform the following command.
   ```
-  scp -r /path/to/local/dir pi@raspberrypi.local:/path/to/remote/dir
+  scp -r path/to/local/dir pi@raspberrypi.local:/path/to/remote/dir
   ```
 
 
